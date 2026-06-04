@@ -1,0 +1,19 @@
+# 基礎依賴
+python-dotenv>=1.0.0
+logging>=0.5.1.2
+
+# AI 相關依賴
+openai>=1.0.0
+transformers>=4.0.0
+torch>=2.0.0
+
+# 資料處理依賴
+pandas>=2.0.0
+numpy>=1.0.0
+
+# 網路請求依賴
+requests>=2.0.0
+aiohttp>=3.0.0
+
+# 其他依賴
+pyyaml>=6.0
